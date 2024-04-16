@@ -1,4 +1,5 @@
-### Hi Hiếu Nguyễn👋
+<marquee>Hi Hiếu Nguyễn👋</marquee>
+
 
 <!--
 **hieunguyen-1510/hieunguyen-1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
