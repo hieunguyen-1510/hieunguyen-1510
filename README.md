@@ -1,4 +1,4 @@
-<marquee>Hi Hiếu Nguyễn👋</marquee>
+<marquee>I'm Hiếu Nguyễn👋</marquee>
 
 
 <!--
