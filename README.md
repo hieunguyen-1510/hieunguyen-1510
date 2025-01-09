@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hiếu Nguyễn 👋</h1>
 
 <p align="center">
-  <em>✨ A passionate student and developer from Vietnam ✨</em>
+  <em>✨ A passionate student and developer in Vietnam ✨</em>
 </p>
 
 ---
